@@ -31,3 +31,5 @@ node_modules
 
 dist/
 .nyc_output/
+
+.idea
